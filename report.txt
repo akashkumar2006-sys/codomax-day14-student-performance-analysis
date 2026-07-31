@@ -1,0 +1,32 @@
+===========================================
+Student Performance Analysis Report
+===========================================
+
+Total Students : 10
+
+Average Marks : 87.30
+
+Highest Marks : 95
+
+Lowest Marks : 76
+
+Branch-wise Average Marks
+
+AIML : 92.0
+CSE  : 86.3
+ECE  : 86.0
+IT   : 83.0
+
+-------------------------------------------
+
+Conclusion
+
+• Overall academic performance is good.
+• AIML students achieved the highest average marks.
+• IT branch recorded the lowest average marks.
+• Most students scored above 80.
+
+===========================================
+Report Generated Successfully
+Codomax AI/ML Internship – Day 14
+===========================================
