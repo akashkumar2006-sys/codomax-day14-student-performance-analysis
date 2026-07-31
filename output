@@ -1,0 +1,24 @@
+=============================================================
+     STUDENT PERFORMANCE ANALYSIS - DAY 14
+=============================================================
+
+Dataset Loaded Successfully!
+
+Dataset Shape: (10, 4)
+
+Average Marks: 87.3
+Highest Marks: 95
+Lowest Marks: 76
+
+Branch-wise Average Marks
+
+AIML    92.0
+CSE     86.3
+ECE     86.0
+IT      83.0
+
+Charts generated successfully.
+Analysis report saved successfully.
+
+Project Completed Successfully ✅
+=============================================================
